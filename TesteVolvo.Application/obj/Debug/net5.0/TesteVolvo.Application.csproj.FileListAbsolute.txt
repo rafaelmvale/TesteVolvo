@@ -1,0 +1,15 @@
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\bin\Debug\net5.0\TesteVolvo.Application.deps.json
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\bin\Debug\net5.0\TesteVolvo.Application.dll
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\bin\Debug\net5.0\TesteVolvo.Application.pdb
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\bin\Debug\net5.0\TesteVolvo.Domain.dll
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\bin\Debug\net5.0\TesteVolvo.Domain.pdb
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.csproj.AssemblyReference.cache
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.AssemblyInfoInputs.cache
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.AssemblyInfo.cs
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.csproj.CoreCompileInputs.cache
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.csproj.CopyComplete
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.dll
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\refint\TesteVolvo.Application.dll
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\TesteVolvo.Application.pdb
+C:\Users\fael_\Documents\Projetos\TesteVolvo\TesteVolvo.Application\obj\Debug\net5.0\ref\TesteVolvo.Application.dll

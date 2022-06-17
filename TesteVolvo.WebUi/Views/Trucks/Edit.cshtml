@@ -1,0 +1,36 @@
+﻿@model TesteVolvo.Application.DTOs.TruckDTO
+
+<h3>Edit Trucks</h3>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="YearManufacture" class="control-label"></label>
+                <input asp-for="YearManufacture" class="form-control" />
+                <span asp-validation-for="YearManufacture" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="YearModel" class="control-label"></label>
+                <input asp-for="YearModel" class="form-control" />
+                <span asp-validation-for="YearModel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                <span asp-validation-for="Category" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index">Back to list</a>
+</div>

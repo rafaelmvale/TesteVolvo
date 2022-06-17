@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.WebUi\\TesteVolvo.WebUi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\TesteVolvo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\TesteVolvo.Application.csproj",
+        "projectName": "TesteVolvo.Application",
+        "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\TesteVolvo.Application.csproj",
+        "packagesPath": "C:\\Users\\fael_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fael_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj": {
+                "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj",
+        "projectName": "TesteVolvo.Domain",
+        "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj",
+        "packagesPath": "C:\\Users\\fael_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fael_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.Data\\TesteVolvo.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.Data\\TesteVolvo.Infra.Data.csproj",
+        "projectName": "TesteVolvo.Infra.Data",
+        "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.Data\\TesteVolvo.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\fael_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fael_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj": {
+                "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.IoC\\TesteVolvo.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.IoC\\TesteVolvo.Infra.IoC.csproj",
+        "projectName": "TesteVolvo.Infra.IoC",
+        "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.IoC\\TesteVolvo.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\fael_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fael_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\TesteVolvo.Application.csproj": {
+                "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\TesteVolvo.Application.csproj"
+              },
+              "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj": {
+                "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Domain\\TesteVolvo.Domain.csproj"
+              },
+              "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.Data\\TesteVolvo.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.Data\\TesteVolvo.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.WebUi\\TesteVolvo.WebUi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.WebUi\\TesteVolvo.WebUi.csproj",
+        "projectName": "TesteVolvo.WebUi",
+        "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.WebUi\\TesteVolvo.WebUi.csproj",
+        "packagesPath": "C:\\Users\\fael_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.WebUi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fael_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.IoC\\TesteVolvo.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Infra.IoC\\TesteVolvo.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

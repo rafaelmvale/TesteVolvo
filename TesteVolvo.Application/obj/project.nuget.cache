@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvJQMF0L2dajOTLP7GrhawAxrfUN++A9pCRLW4zhsisQFlu9y9kisiQl9X8TsFLG9HGcCNDo43rQ1dIP4lY44A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fael_\\Documents\\Projetos\\TesteVolvo\\TesteVolvo.Application\\TesteVolvo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fael_\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\fael_\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\fael_\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\fael_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\fael_\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
